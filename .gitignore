@@ -16,3 +16,8 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
